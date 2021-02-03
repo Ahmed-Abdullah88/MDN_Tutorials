@@ -1,0 +1,16 @@
+Color:
+#4BAFED
+
+
+Text:
+Bagrawiyah, Sudan – More than 200km from the Sudanese capital Khartoum, the remains of an ancient city rise from the arid and inhospitable terrain like a science-fiction film set. Nestled between sand dunes, the secluded pyramids seem to have been forgotten by the modern world, with no nearby restaurants or hotels to cater to tourists. 
+
+
+
+Font:
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap" rel="stylesheet"> 
+
+
+font-family: 'Roboto Condensed', sans-serif;
