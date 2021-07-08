@@ -1,0 +1,60 @@
+html {
+    font-size: 10px;
+    font-style: italic;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: justify;
+}
+
+html {
+    background-color: #e1ffa8;
+}
+
+body {
+    width: 600px;
+    background-color: gold;
+    padding: 0 20px 20px 20px;
+    border: 5px double black;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #FDE100;
+    text-shadow: 7px 3px 6px black;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0;
+    padding: 5px 0 0 0;
+    color: #282824;
+}
+
+img {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+p,
+li,
+a {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: rgb(0, 255, 255);
+}
+
+a:visited {
+    color: rgb(6, 95, 3);
+}
